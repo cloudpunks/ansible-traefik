@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.9.2](https://github.com/rolehippie/traefik/compare/v4.9.1...v4.9.2) (2026-08-31)
+
+### Dependencies
+
+* **patch:** update dependency pipx:ansible-doctor to v8.4.1 ([#128](https://github.com/rolehippie/traefik/issues/128)) ([3ac494b](https://github.com/rolehippie/traefik/commit/3ac494b1b4928b4654ba5c53c1d4db55e7e98a66))
+* **patch:** update library/traefik docker tag to v3.7.12 ([#127](https://github.com/rolehippie/traefik/issues/127)) ([3af1625](https://github.com/rolehippie/traefik/commit/3af16250c317db0fc4c74cf252a2c2c831dc4c5b))
+
 ## [4.9.1](https://github.com/rolehippie/traefik/compare/v4.9.0...v4.9.1) (2026-08-24)
 
 ### Dependencies
